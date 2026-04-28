@@ -1,0 +1,12 @@
+langgraph>=0.2.0
+google-generativeai
+langchain-groq
+langchain-google-genai
+tavily-python
+supabase
+fastapi
+uvicorn[standard]
+streamlit
+python-dotenv
+pydantic
+httpx
